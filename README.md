@@ -1,1 +1,2 @@
 # odin-recipes
+<p>Here I learned the fundamentals of website layout, including tags, elements, nesting, headings, links, and images. I also learned the basics of adding, committing, and pushing to a GitHub repository.
